@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-<img src="#">
+<img src="https://raw.githubusercontent.com/darknethaxor/picture/main/Screenshot_20210110-132518-picsay.png">
 
 ## Installation : 
 
@@ -16,5 +16,12 @@ Note: You must be clone in home directory
 * `cd AnonShare` 
 * `chmod +x share.sh` 
 * `bash share.sh` 
+
+## Screenshot
+
+<img src="https://raw.githubusercontent.com/darknethaxor/picture/main/Screenshot_20210110-132518-picsay.png">
+<br>
+<br>
+<h3>Thanks For Suport Us</h3>
 
 

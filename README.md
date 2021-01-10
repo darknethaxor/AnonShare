@@ -6,7 +6,8 @@ Note: You must be clone in home directory
  
 * `apt update` 
 * `apt upgrade -y` 
-* `apt install git -y` 
+* `apt install git -y`
+* `apt install wget -y` 
 * `cd $HOME` 
 * `git clone https://github.com/darknethaxor/AnonShare.git` 
 * `cd AnonShare` 
